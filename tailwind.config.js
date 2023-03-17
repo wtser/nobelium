@@ -23,7 +23,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        sansCN: [...fontSansCJK],
+        sansCN:
+          "Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji",
         sans: ['"IBM Plex Sans"', ...fontFamily.sans, ...fontSansCJK],
         serif: ['"Source Serif"', ...fontFamily.serif, ...fontSerifCJK],
         noEmoji: [
