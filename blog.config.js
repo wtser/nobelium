@@ -2,7 +2,7 @@ const BLOG = {
   title: "王铁手的博客",
   author: "wtser",
   email: "wtser@qq.com",
-  link: "https://blog.wtser.com",
+  link: "https://wtser.com",
   description: "Find a faster way to fail, recover and try again.",
   lang: "cn-ZH",
   appearance: "auto", // ['light', 'dark', 'auto'],
