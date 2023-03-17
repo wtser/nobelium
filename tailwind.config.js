@@ -23,7 +23,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        sansCN: [...fontSansCJK, ...fontFamily.sans],
+        sansCN: [...fontSansCJK],
         sans: ['"IBM Plex Sans"', ...fontFamily.sans, ...fontSansCJK],
         serif: ['"Source Serif"', ...fontFamily.serif, ...fontSerifCJK],
         noEmoji: [
